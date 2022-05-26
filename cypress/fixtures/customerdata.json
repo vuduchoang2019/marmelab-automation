@@ -1,0 +1,11 @@
+{
+    "firstname": "Hoang",
+    "lastname": "Vu",
+    "email": "vuduchoang2019@gmail.com",
+    "birthday": "1996-02-02",
+    "address": "20 Pham Hung, Hanoi",
+    "city": "Hanoi",
+    "state": "Hanoi",
+    "zipcode": "12345",
+    "password": "123456"
+}

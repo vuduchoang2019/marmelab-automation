@@ -1,0 +1,5 @@
+{
+    "watchForFileChanges":true,
+    "defaultCommandTimeout":10000,
+    "testFiles":"**/*.feature"
+}
